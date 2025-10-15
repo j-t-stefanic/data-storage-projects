@@ -4,7 +4,7 @@ Projects related to data storage solutions, which is the foundation for storing,
 # List Of Projects
 
   - **SQLite**
-    Back in 2023 I had scraped a tremendous amount of NFL data to perform some Exploratory Data Analysis as well as to practice creating some data visualization projects.
+    ##Back in 2023 I had scraped a tremendous amount of NFL data to perform some Exploratory Data Analysis as well as to practice creating some data visualization projects.
 
 
  - **MySQL**
